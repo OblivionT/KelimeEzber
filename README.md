@@ -1,6 +1,6 @@
 # KelimeEzber
 
-*REQUIRES A DATABASE*
+******REQUIRES A DATABASE******
 
  A dictionary-like application for learning Turkish and English
 
