@@ -1,4 +1,7 @@
 # KelimeEzber
+
+*REQUIRES A DATABASE*
+
  A dictionary-like application for learning Turkish and English
 
 Proje Özeti
