@@ -1,5 +1,7 @@
 # KelimeEzber
 
+This project was made in my Second year of University
+
 ******REQUIRES A DATABASE******
 
  A dictionary-like application for learning Turkish and English
