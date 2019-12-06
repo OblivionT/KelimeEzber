@@ -3,6 +3,22 @@
 ******REQUIRES A DATABASE******
 
  A dictionary-like application for learning Turkish and English
+ 
+ You can add new words, Test those words that you think you have learned. and see your progress statistically.
+ 
+ Words have 4 stages
+ 
+ 1-Pool:Words that you are not trying to learn at the moment.
+ 
+ 2-Learning: Words that you trying to learn.
+ 
+ 3-Test:Words that you think you learned.These words are used by our test.
+ 
+ 4-Learned:Words that you succesfully learned using our test system.
+ 
+ 
+ 
+ 
 
 Proje Özeti
 
