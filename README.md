@@ -4,6 +4,10 @@
 
  A dictionary-like application for learning Turkish and English
  
+ Main Form
+ 
+ ![](Images/KelimeEzber%20App.png)
+ 
  You can add new words, Test those words that you think you have learned. and see your progress statistically.
  
  Words have 4 stages
@@ -17,6 +21,16 @@
  4-Learned:Words that you succesfully learned using our test system.
  
  
+  Test Form
+ 
+ ![](Images/Kelime%20Ezber%20Test.png)
+ 
+ 
+ 
+ 
+   Pool Form
+ 
+ ![](Images/KelimeEzber%20word%20pool.png)
  
  
 
