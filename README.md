@@ -72,6 +72,9 @@ Hazırlayanlar:
 -Berke Öncül 172803011
 -Uğur Çiftçi 172803053
 
+
+Kullanılan Teknolojiler ve araçlar: C#,Visual Studio, Microsoft SQL , .NET
+
 Lisans 
 © With Berke Ö. - Uğur Ç.'ye aittir. Tüm hakları saklıdır.
 
